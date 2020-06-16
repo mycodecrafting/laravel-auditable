@@ -1,6 +1,6 @@
 {
     "name": "olsgreen/laravel-auditable",
-    "description": "An easy to implement attribute audit log for Eloquent ORM in Laravel 4.X.",
+    "description": "An easy to implement attribute audit log for Eloquent ORM in Laravel 6.X.",
     "authors": [
         {
             "name": "Oliver Green",
@@ -8,8 +8,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
-        "illuminate/support": "5.*"
+        "php": ">=7.3.0",
+        "illuminate/support": "6.*"
     },
     "autoload": {
         "psr-0": {
